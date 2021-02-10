@@ -1,0 +1,39 @@
+h1 {
+  color: #F8B195;
+  text-align: center;
+  background-color: #6C5B7B;
+  line-height: 150px;
+  font-family: cursive;
+  font-style: oblique;
+}
+h2 {
+  color: #C06C84;
+  font-style: italic;
+  text-align: center;
+  background-color: #355C7D;
+  line-height: 50px;
+}
+p {
+  font-family: 'Times New Roman', Times, serif;
+}
+ul {
+  line-height: 20px;
+  font-family: sans-serif;
+}
+ol {
+  line-height: 20px;
+}
+body {
+  background-color: honeydew;
+}
+strong {
+  font-style: italic;
+  font-style: normal;
+}
+em{
+  font-style: oblique;
+}
+img {
+  height: 200px;
+  width: 300px;
+}
